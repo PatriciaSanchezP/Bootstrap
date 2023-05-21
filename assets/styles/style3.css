@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+.barraNavegacion{
+    background-color: blue;
+ }
+ 
+ .imagenes{
+    background-color: orangered;
+ }
+ 
+ 
+ .parrafos{
+    background-color: violet;
+ }
+ 
+ .footer{
+    background-color: green;
+ }
+
+ p{
+    padding: 50px;
+    border: 1px solid black;
+ }
